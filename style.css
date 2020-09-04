@@ -1,0 +1,70 @@
+body {
+    /* background-color:rgb(255, 255, 255); */
+    font-size: 16px;
+    background-image: url("images/wrSNTt.jpg");
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: sienna;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover{
+    background-color: rgb(87, 46, 13);
+}
+
+.active {
+    background-color: rgb(87, 46, 13);
+}
+
+#h1 {
+    text-align: center;
+    font-size: 6em;
+    letter-spacing: 5px;
+    font-family: 'Tangerine', cursive;
+    color: rgba(175, 83, 8, 1);
+
+}
+
+.div2 {
+    text-align: center;
+    font-size: 18px;    
+}
+
+.div3 {
+    text-align: center;
+    font-size: 18px;
+}
+
+.div4 {
+    text-align: center;
+    font-size: 18px;
+}
+span {
+    font-weight: bold;
+}
+
+footer {
+    display: block;
+    background-color: sienna ;
+    color: white;
+    text-align:center;
+    padding: 1px
+
+}
